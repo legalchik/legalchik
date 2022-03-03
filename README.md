@@ -1,3 +1,5 @@
+<table>
+  <td>
 <div align="center">
   <h2>Hello! I'am legalchik 👋</h2>
   <table>
@@ -9,3 +11,5 @@
     </td>
   </table>
 </div>
+    </td>
+</table>
